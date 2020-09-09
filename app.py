@@ -14,7 +14,7 @@ def index():
 def bottles():
     return render_template(
         'bottles.html',
-        title='bottles'
+        title='bottles1'
 
     )
 
